@@ -1,0 +1,11 @@
+Id,Name,Department,Age,Gender,Salary,Joining_Date,City
+1,Amit,Engineering,28,M,82500,2021-03-15,Bangalore
+2,Priya,HR,32,F,57200,2019-07-01,Mumbai
+3,Rahul,Engineering,26,M,74800,2022-01-10,Bangalore
+4,Neha,Finance,35,F,93500,2018-11-23,Delhi
+5,Arjun,Engineering,41,M,104500,2016-05-19,Hyderabad
+6,Ananya,HR,29,F,61600,2020-09-14,Mumbai
+7,Vikram,Finance,38,M,99000,2017-02-08,Delhi
+8,Pooja,Engineering,24,F,68200,2023-06-01,Pune
+9,Suresh,Engineering,33,M,88000,2019-12-30,Bangalore
+10,Kiran,HR,45,M,66000,2015-04-25,Chennai

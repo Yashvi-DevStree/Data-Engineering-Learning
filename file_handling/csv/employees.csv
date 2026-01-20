@@ -1,0 +1,6 @@
+emp_id,name,department,role,age,salary,experience_years,location,skills,is_active
+101,Amit Sharma,Engineering,Backend Developer,28,75000,4,Bangalore,"['Python', 'SQL', 'PostgreSQL']",True
+102,Priya Mehta,HR,HR Manager,32,65000,7,Mumbai,"['Recruitment', 'Communication']",True
+103,Rahul Verma,Engineering,Data Engineer,35,90000,9,Hyderabad,"['Python', 'Spark', 'AWS', 'SQL']",True
+104,Neha Kapoor,Marketing,Marketing Executive,26,55000,3,Delhi,"['SEO', 'Content Marketing']",False
+105,Karan Patel,Engineering,Program Manager,41,120000,15,Pune,"['System Design', 'Python', 'Cloud']",True
