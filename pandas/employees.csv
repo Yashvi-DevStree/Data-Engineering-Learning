@@ -1,0 +1,6 @@
+id,name,age,city,salary,salary_after_hike,age_group
+1,Alice,25,Delhi,50000,55000.00000000001,Young
+2,Bob,30,Mumbai,70000,66000.0,Senior
+3,Charlie,35,Delhi,70000,77000.0,Senior
+4,David,40,Bangalore,70000,88000.0,Senior
+5,Eva,28,Mumbai,65000,71500.0,Young
